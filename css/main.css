@@ -1,0 +1,8 @@
+.n_search_input:focus + ul.n_search{
+    display:block; /*show*/
+}
+
+
+.n_search{
+    display:none;
+}
